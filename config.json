@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerspdate",
+        "uuid": 1629504,
+        "checksum": "jgbcxa"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
